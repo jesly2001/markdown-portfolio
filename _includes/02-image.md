@@ -1,1 +1,2 @@
-<img src="pupdanceparty.gif" alt="Puppies dancing">
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
